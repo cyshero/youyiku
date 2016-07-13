@@ -4,7 +4,7 @@
 //
 //  Created by yixinli on 16/7/13.
 //  Copyright © 2016年 haojiyouxian. All rights reserved.
-//、、
+//
 
 #import <UIKit/UIKit.h>
 #import <CoreData/CoreData.h>
